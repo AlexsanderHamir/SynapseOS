@@ -2,7 +2,7 @@
 
 ### 🚀 Intent
 
-This project aims to become a powerful, open-source engine that understands your codebase deeply and serves intelligent explanations to agents, and developers.
+This project aims to become a powerful, open-source engine that understands your codebase deeply and serves intelligent explanations to agents.
 
 Instead of just parsing files, this engine will:
 
